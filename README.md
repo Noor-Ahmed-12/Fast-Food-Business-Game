@@ -61,9 +61,8 @@ If you want to improve this Fast Food Business Game Database Project made in JAV
 
 
 
-<br>
 ### :computer: For More Informative Material, Follow us on:
  [<img align="left" alt="TechnicalFaraz.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]<a href="https://technicalfaraz.com/">TechnicalFaraz.com</a><br>
 [<img align="left" alt="TechnicalFaraz | FacebookPage" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]<a href="https://www.facebook.com/technicalfaraz/">@TechnicalFaraz</a><br>
-
+<br>
 ### You can contact us at <a href="mailto:contact@technicalfaraz.com">Contact@TechnicalFaraz.com</a>
