@@ -63,6 +63,6 @@ If you want to improve this Fast Food Business Game Database Project made in JAV
 [<img align="left" alt="Noor Ahmed Shaikh | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 [website]: https://technicalfaraz.com/author/noor_ahmed/
-[twitter]: https://twitter.com/NoorShykh54/
+[twitter]: https://www.twitter.com/NoorShykh54?s=09
 [facebook]: https://web.facebook.com/profile.php?id=100010125183183/
 [linkedin]: https://www.linkedin.com/in/noor-ahmed-shaikh-2989691b4/
