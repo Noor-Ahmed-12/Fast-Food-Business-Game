@@ -47,7 +47,7 @@ Whenever you hear the word the Database Project you might think about management
 ### :small_blue_diamond:You can Contribute in it!
 If you want to improve this Fast Food Business Game Database Project made in JAVA with new creative ideas to make it more entertaining.
 
-
+<br>
 ### Connect with me:
 [<img align="left" alt="Noor Ahmed Shaikh | blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Noor Ahmed Shaikh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
