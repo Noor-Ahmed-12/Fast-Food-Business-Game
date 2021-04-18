@@ -47,22 +47,23 @@ Whenever you hear the word the Database Project you might think about management
 ### :small_blue_diamond:You can Contribute in it!
 If you want to improve this Fast Food Business Game Database Project made in JAVA with new creative ideas to make it more entertaining.
 
-
 <br>
+
 ### :computer: For More Informative Material, Follow us on:
  [<img align="left" alt="TechnicalFaraz.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]<a href="https://technicalfaraz.com/">TechnicalFaraz.com</a><br>
 [<img align="left" alt="TechnicalFaraz | FacebookPage" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]<a href="https://www.facebook.com/technicalfaraz/">@TechnicalFaraz</a><br>
 [<img align="left" alt="TechnicalFaraz | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]<a href="https://www.youtube.com/channel/TechnicalFarazOfficial">@TechnicalFarazOfficial</a>
 
+<br>
 
 ### You can contact us at <a href="mailto:contact@technicalfaraz.com">Contact@TechnicalFaraz.com</a>
-<br>
+
 ### Connect with me:
 
-[<img align="left" alt="Noor Ahmed Shaikh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Noor Ahmed Shaikh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Noor Ahmed Shaikh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Noor Ahmed Shaikh | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][instagram]
+[<img align="right" alt="Noor Ahmed Shaikh | Twitter" width="22px" rc="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="right" alt="Noor Ahmed Shaikh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="right" alt="Noor Ahmed Shaikh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="right" alt="Noor Ahmed Shaikh | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][instagram]
 
 [website]: https://technicalfaraz.com/author/noor_ahmed/
 [twitter]: https://twitter.com/NoorShykh54/
