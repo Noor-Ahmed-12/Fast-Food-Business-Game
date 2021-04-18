@@ -49,10 +49,10 @@ If you want to improve this Fast Food Business Game Database Project made in JAV
 
 
 ### Connect with me:
-[<img align="center" alt="Noor Ahmed Shaikh | blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="center" alt="Noor Ahmed Shaikh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center" alt="Noor Ahmed Shaikh | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="center" alt="Noor Ahmed Shaikh | twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Noor Ahmed Shaikh | blog" width="24px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Noor Ahmed Shaikh | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Noor Ahmed Shaikh | Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Noor Ahmed Shaikh | twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [website]: https://technicalfaraz.com/author/noor_ahmed/
 [twitter]: https://www.twitter.com/NoorShykh54?s=09
