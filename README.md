@@ -52,7 +52,7 @@ If you want to improve this Fast Food Business Game Database Project made in JAV
 [<img align="left" alt="Noor Ahmed Shaikh | blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Noor Ahmed Shaikh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Noor Ahmed Shaikh | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Noor Ahmed Shaikh | twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Noor Ahmed Shaikh | twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]<br>
 
 [website]: https://technicalfaraz.com/author/noor_ahmed/
 [twitter]: https://www.twitter.com/NoorShykh54?s=09
@@ -62,7 +62,7 @@ If you want to improve this Fast Food Business Game Database Project made in JAV
 
 
 ### :computer: For More Informative Material, Follow us on:
- <br>[<img align="left" alt="TechnicalFaraz.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]<a href="https://technicalfaraz.com/">TechnicalFaraz.com</a><br>
+[<img align="left" alt="TechnicalFaraz.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]<a href="https://technicalfaraz.com/">TechnicalFaraz.com</a><br>
 [<img align="left" alt="TechnicalFaraz | FacebookPage" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]<a href="https://www.facebook.com/technicalfaraz/">@TechnicalFaraz</a><br>
 <br>
 ### You can contact us at <a href="mailto:contact@technicalfaraz.com">Contact@TechnicalFaraz.com</a>
